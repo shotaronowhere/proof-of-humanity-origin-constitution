@@ -30,11 +30,11 @@ HIPs in the consensus check phase must pass a simple ½ majority of cast votes t
 
 ## b) Constitution Check Phase
 
-HIPs in the constitutional check phase must pass an optimistic period as a submission to a Kleros Curate list of constitutional HIPs. If accepted, the HIP is considered constitutional and passes to the final binding phase.
+HIPs in the constitutional check phase must pass an optimistic period as a submission to a Kleros Curate list of constitutional HIPs with the same deposit required as the Kleros Governor. If accepted, the HIP is considered constitutional and passes to the final binding phase.
 
 ## c) Final Binding Phase
 
-In the interests of broad consensus, all HIPs in a binding final phase must pass a vote with a minimum ⅔  voting threshold, and all constitutional amendment HIPs must pass with a minimum ¾ voting threshold.
+In the interests of broad consensus, all HIPs in a binding final phase must pass a vote with a minimum ⅔  voting threshold, and all constitutional amendment HIPs must pass with a minimum ¾ voting threshold. HIPs which pass the voting threshold and require on-chain execution shall be submitted to the Kleros Governor with an initial base deposit of 4 eth.
 
 Any constitutional amendments which pass the final binding phase will reset all final binding and constitution check phase HIPs to restart the constitution check phase with the updated constitution.
 
