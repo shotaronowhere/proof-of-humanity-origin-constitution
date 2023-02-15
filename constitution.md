@@ -17,7 +17,7 @@ Proof of Humanity Origin is an open, permissionless protocol with equal access f
 
 # **3. Proof of Humanity Origin commits to the principle of 1 person 1 vote.**
 
-All registered humans may vote directly, or through their delegate.
+All registered humans may vote directly, or through their delegate. The Proof of Humanity Origin cannot purposely make it harder for people to vote or delegate. Proof of Humanity Origin can delegate some of its power to other mechanisms (ex: group of elected people, workers, other DAOs, quadratic voting) but those delegations can always be revoked through a 1 person 1 vote with delegations vote.
 
 
 # **4. Proof of Humanity Origin is governed as a constitutional democracy.**
@@ -57,4 +57,4 @@ All votes must include the choice ‘make no changes’ as the first option so t
 
 ### vi) be submitted for constitution check by a Proof of Humanity Origin member
 
-HIPs which fail the constitutional check are considered treason. The submitter and authors of an unconstitutional HIP are prohibited from submitting new HIPs and are prohibited from holding any office (elected or appointed). A simple majority vote of ½ threshold of cast votes may reinstate these abilities.
+HIPs which fail the constitutional check are considered treason. The submitter and authors of an unconstitutional HIP are prohibited from submitting new HIPs and are prohibited from holding any office (elected or appointed) or similar position of power. It is possible to make a HIP to reinstate these abilities.
